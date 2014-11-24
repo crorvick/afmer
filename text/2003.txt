@@ -1,0 +1,653 @@
+            CHANGES TO 2003 AFMER REPORTS
+
+Because of a data base change, as of January 1999, the Annual
+Firearms Manufacturing and Exportation Reports (AFMER) show
+a page number in the upper right hand corner of each page,
+such as 1 of 22. Since only the releasable information is
+provided, some pages are missing. Below is the number of
+pages for each report:
+
+Firearms Manufactured = 22 pages. Releasable - pages 1 to 13
+
+Firearms Exported = 7 pages. Releasable – pages 1 to 6
+ANNUAL FIREARMS MANUFACTURING AND EXPORT REPORT
+
+                               YEAR   2003
+
+                              MANUFACTURED
+
+ PISTOLS                                 REVOLVERS
+
+TO .22              189,785           TO .22               108,518
+TO .25               10,987           TO .32                 3,928
+TO .32               43,471           TO .357 MAG           59,591
+TO .380              79,788           TO .38 SPEC           57,078
+TO 9MM              219,668           TO .44 MAG            46,533
+TO .50              267,961           TO .50                33,716
+
+TOTAL               811,660           TOTAL                309,364
+
+
+RIFLES            1,430,324
+
+SHOTGUNS            726,078
+
+MISC. FIREARMS       30,978
+
+
+                              EXPORTED
+
+PISTOLS              16,340
+
+REVOLVERS            26,524
+
+RIFLES               62,522
+
+SHOTGUNS             29,537
+                                      PREPARED BY NES 3/31/05
+MISC. FIREARMS        6,989
+
+'*** FOR PURPOSES OF THIS REPORT ONLY, "PRODUCTION" IS DEFINED AS:
+    FIREARMS, INCLUDING SEPARATE FRAMES OR RECEIVERS, ACTIONS OR
+    BARRELED ACTIONS, MANUFACTURED AND DISPOSED OF IN COMMERCE
+    DURING THE CALENDAR YEAR.
+                                                         PISTOLS MANUFACTURED IN 2003                                             PAGE 1 OF 22
+                                                                                     PISTOL   PISTOL     PISTOL      PISTOL       PISTOL   PISTOL       PISTOL
+RDS KEY    LICENSE NAME                 STREET                  CITY          ST         22       25         32         380          9MM       50        TOTAL
+
+57134716   WILSONS GUN SHOP INC         2234 CR 719             BERRYVILLE    AR          0        0           0             0         1     2254          2255
+57100518   ZIMMERMANN, ALEX W           171 MADISON 1510        HUNTSVILLE    AR          0        0           0             0         0          7           7
+98600975   BUSHMASTER FIREARMS INC      1070 METRIC DRIVE       LAKE HAVASU   AZ          0      894           0             0         0          0         894
+                                                                CITY
+98638393   GUNSITE ACADEMY INC          2900 W GUNSITE RD       PAULDEN       AZ          0        0           0             0         0          12         12
+98633332   R & R SPORTING ARMS INC      15481 N TWIN LAKES DR TUCSON          AZ          1        0           1             0         0          0           2
+98636542   ROBAR COMPANIES, INC         21438 N 7TH AVE SUITE   PHOENIX       AZ          0        0           0             0         0          1           1
+                                        B
+98614472   STURM, RUGER & CO INC        200 RUGER RD            PRESCOTT      AZ      62401        0           0             0     21888    14133         98422
+93334014   BRYCO ARMS                   380 CLINTON ST          COSTA MESA    CA       7684     5100           0       20685       26372          0       59841
+93340727   EXCEL INDUSTRIES INC         4510 CARTER CT          CHINO         CA          0        0           0            43         0          0          43
+93340235   INTERNATIONAL ANTIQUE        33171 CAMINO            SAN JUAN      CA         89        0           0            19         0          0         108
+           REPRODUCTIONS INC            CAPISTRANO              CAPISTRANO
+99434360   KRAUSE, MICHAEL A            83 21ST AVE             SAN MATEO     CA          0        0           0             0         0          3           3
+93319318   LA FRANCE, TIMOTHY FRANK     3417 HANCOCK ST         SAN DIEGO     CA          0        0           0             0         0          1           1
+93340544   MICRODYNE PLASTICS INC       4651 E AIRPORT DR       ONTARIO       CA          0        0           0             0         0     1000          1000
+93336988   PHOENIX ARMS                 4231 BRICKELL STREET    ONTARIO       CA       7815     1300           0             0         0          0        9115
+60633345   COLT'S MANUFACTURING CO      545 NEWPARK AVE         WEST          CT          0        0           0           1688        2    11985         13675
+           LLC                                                  HARTFORD
+60604862   L W SEECAMP CO INC           301 BREWSTER RD         MILFORD       CT          0        0        1463             4         0          0        1467
+                                        INDUSTRIAL BLDG
+15940806   KEL TEC CNC INDUSTRIES INC   1475 COX ROAD           COCOA         FL          0        0       21545       16269        9206          0       47020
+15839850   CENTRAL TOOLING INC          827 PRATHER BRIDGE    TOCCOA          GA          0        0           0             0         0          2           2
+                                        RD
+15840177   MASTERPIECE ARMS INC         116 KINGSBRIDGE DRIVE CARROLLTON      GA          0        0           0             0       666         574       1240
+54235453   DOUBLE DEUCE INC             24276 240TH ST          CARROLL       IA        112        0           0             0         0          0         112
+98200317   TACTICAL SOLUTIONS LLC       800 E CITATION CT STE   BOISE         ID        708        0           0             0         0          0         708
+                                        C
+33635343   LES BAER CUSTOM INC          29601 34TH AVE N        HILLSDALE     IL          0        0           0             0        78     1818          1896
+33637004   ROCK RIVER ARMS INC          1042 CLEVELAND RD       COLONA        IL          0        0           0             0         0         188        188
+33635798   SPRINGFIELD INC              420 W MAIN ST           GENESEO       IL          0        0           0             0     18212    60042         78254
+46137442   GEMINI CUSTOMS LLC           2262 LOUISVILLE RD      FRANKFORT     KY          0        0           0             0         0          1           1
+57233690   CLARK CUSTOM GUNS INC        336 SHOOTOUT LN         PRINCETON     LA         22        0           0             0         0          22         44
+60435456   SAEILO, INC                  130 GODDARD             WORCESTER     MA          0        0           0             0     11187     4227         15414
+                                        MEMORIAL DR
+60410395   SMITH & WESSON CORP          2100 ROOSEVELT AVE      SPRINGFIELD   MA          0        0           0             0     26020    40956         66976
+85207699   BERETTA U S A CORPORATION 17601 BERETTA DR           ACCOKEEK      MD      34764     3010       14449             0     28568    11242         92033
+60106460   SMITH & WESSON CORP          19 AVIATION DR          HOULTON       ME      11260        0           0             0         0          0       11260
+34137259   E ARTHUR BROWN CO INC        4353 STATE HWY 27 E     ALEX          MN          9        0          12             0         1          0          22
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES                 For Official Use Only                               03/31/2005
+WASHINGTON DC
+                                                      PISTOLS MANUFACTURED IN 2003                                                 PAGE 2 OF 22
+                                                                                      PISTOL   PISTOL     PISTOL      PISTOL       PISTOL   PISTOL       PISTOL
+RDS KEY    LICENSE NAME               STREET                    CITY             ST       22       25         32         380          9MM       50        TOTAL
+
+54301678   GATEWAY HOSE & COUPLING    8301 CREST INDUSTRIAL AFFTON               MO        0        2           5             3         0          0          10
+           CO INC                     DR #C
+15639696   CHANDLER, NORMAN A         100 RADCLIFFE CIRCLE JACKSONVILLE          NC        0        0           0             0         0          4           4
+54734146   CYLINDER & SLIDE INC       245 E 4TH ST              FREMONT          NE        0        0           0             0         2          5           7
+60234248   COMPETITOR CORP INC        26 KNIGHT STREET, UNIT JAFFREY             NH       12        9          21             0         3          7          52
+                                      3
+60200153   SIG ARMS INC               18 INDUSTRIAL DR       EXETER              NH        0        0           0             0     18118    39383         57501
+60233754   THOMPSON CENTER ARMS CO FARMINGTON RD                ROCHESTER        NH     2608      406        1263             0       150     1694          6121
+           INC
+82200079   ST PIERRE, THOMAS V     506 ONE MILE RD S            HIGHTSTOWN       NJ        0        0           0             0         0          1           1
+98800094   ARSENAL INC                6959 SPEEDWAY BLVD    LAS VEGAS            NV        0        0           0             3         0          0           3
+                                      W-109
+98800387   UNERTL ORDNANCE CO INC     2900 S HIGHLAND DRIVE LAS VEGAS            NV        0        0           0             0         0          8           8
+                                      BLDG 18 UNIT C
+61636016   DAN WESSON CORP            5169 ROUTE 12 SOUTH   NORWICH              NY        0        0           0             0        62         823        885
+61334276   KIMBER MFG INC             1 LAWTON ST               YONKERS          NY     2364        0           0           782       849    44250         48245
+61600670   NORDON TOOL AND MOLD INC   691 EXCHANGE ST           ROCHESTER        NY    30807        0           0             0         0          0       30807
+43435702   BEEMILLER INC              1015 SPRINGMILL RD        MANSFIELD        OH        0        0           0       27000       54150          0       81150
+43419291   HASKELL MANUFACTURING      585 EAST BLUE LICK RD     LIMA             OH        0        0           0             0         0    13500         13500
+           INC
+43434316   IBERIA FIREARMS INC        3929 STATE RT 309         GALION           OH        0        0           0             0         0     7320          7320
+43436235   JONES, JOHNDAVID           590 WOODVUE LANE          WINTERSVILLE     OH        1        1           3             2         0          4          11
+57300150   SPACE-CONSYSTEMS INC       6567 E 21ST PL #A, B, C   TULSA            OK        0        0           0             0         0          3           3
+15710236   FN MFG INC                 797 CLEMSON RD            COLUMBIA         SC        0        0           0             0         0         435        435
+34633475   H S PRECISION INC          1301 TURBINE DR           RAPID CITY       SD        6        5          12             0         0          0          23
+16200523   LEINAD INC                 221 HWY 68 N              DUCKTOWN         TN        0        0           0             0      2107     3520          5627
+57421953   AMERICAN DERRINGER CORP    127 N LACY DR             WACO             TX        3        4           3            43         3          99        155
+57541153   BOND ARMS INC              204 ALPHA LN              GRANBURY         TX       61        0          15           587        29     2767          3459
+57439029   DAWSON, DAVID J, JR        3585 CR 272 # 300         LEANDER          TX        0        0           0             0        18          44         62
+57438309   EXO-DIMENSIONAL INC        4209B CLAWSON RD          AUSTIN           TX        0        0           0             0         0          1           1
+57501532   LEE, JEFFREY DAVID         3401 W PIONEER DRIVE      IRVING           TX        0        0           0             0         0          26         26
+                                      #2
+57434417   STI INTERNATIONAL, INC     114 HALMAR COVE           GEORGETOWN       TX        0        0           0             0         0     2446          2446
+98787363   ARMS TECHNOLOGY INC        2779 DIRECTORS ROW        SALT LAKE CITY   UT    24536        0           0             0         0          0       24536
+98700222   COBRA ENTERPRISES OF       1960 MILESTONE DR STE SALT LAKE CITY       UT     4315      250        2816       10977        1975         689      21022
+           UTAH, INC                  F
+98734026   NORTH AMERICAN ARMS INC    2150 S 950 E          PROVO                UT        0        6        1863           1683        0          0        3552
+15401410   GREELEY, KEVIN P           20125 CREEKSPRING CT PURCELLVILLE          VA        0        0           0             0         1          0           1
+60300037   CASPIAN ARMS LTD           75 CAL FOSTER DR          WOLCOTT          VT        0        0           0             0         0     1401          1401
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES                  For Official Use Only                               03/31/2005
+WASHINGTON DC
+                                                    PISTOLS MANUFACTURED IN 2003                                               PAGE 3 OF 22
+                                                                                     PISTOL   PISTOL     PISTOL      PISTOL    PISTOL   PISTOL       PISTOL
+RDS KEY    LICENSE NAME               STREET                CITY          ST             22       25         32         380       9MM       50        TOTAL
+
+60306096   SQUIRES BINGHAM INTL INC   190 JUNCTION RD       HARDWICK       VT             0        0           0           0        0         993        993
+99114520   OLYMPIC ARMS INC           624 OLD PACIFIC HWY   OLYMPIA        WA           207        0           0           0        0          70        277
+                                      SE
+
+                                                                                     189785    10987       43471       79788   219668   267961        811660
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES                 For Official Use Only                            03/31/2005
+WASHINGTON DC
+                                                      REVOLVERS MANUFACTURED IN 2003                                                PAGE 4 OF 22
+
+RDS KEY    LICENSE NAME               STREET                 CITY          ST        RVLR 22   RVLR 32   RVLR 357         RVLR 38     RVLR 44      RVLR 50   RVLR TOTL
+
+98638426   REEDER, GARY NELSON        2599 7TH AVE           FLAGSTAFF     AZ              0         0           0              0           1           15             16
+60635936   CHARCO 2000                273 CANAL ST           HUNTINGTON    CT           1445         0         280           6406         589            0        8720
+60633345   COLT'S MANUFACTURING CO    545 NEWPARK AVE        WEST          CT              0         1        1711             45         579         1150        3486
+           LLC                                               HARTFORD
+60600482   UNITED STATES FIRE ARMS    455-453 LEDYARD ST     HARTFORD      CT              0        10           0            441         103          472        1026
+           MANUFACTURING CO
+15941170   HERITAGE MFG INC           4600 NW 135TH ST       OPA LOCKA     FL          34470         0           0              0           0            0       34470
+60410395   SMITH & WESSON CORP        2100 ROOSEVELT AVE     SPRINGFIELD   MA           5701       512       34368          49639       18495        11683      120398
+34100093   CONTRACT MANUFACTURING     7938 COLLEGE RD STE    BAXTER        MN             10         0           0              0          75         2545        2630
+           INC                        105
+60201484   STURM, RUGER & CO INC      411 SUNAPEE ST         NEWPORT       NH          40612      3349       23101            547       26451        16834      110894
+82200079   ST PIERRE, THOMAS V        506 ONE MILE RD S      HIGHTSTOWN    NJ              0         0           0              0           0            1              1
+61636016   DAN WESSON CORP            5169 ROUTE 12 SOUTH    NORWICH       NY             10         8          17              0          28            0             63
+16200523   LEINAD INC                 221 HWY 68 N           DUCKTOWN      TN            501         0           0              0           0          276            777
+16238596   MUNITIONS INTERNATIONAL    1345 B ENTERPRISE RD   PINEY FLATS   TN              0         0           0              0           0          257            257
+           LAB INC
+98734026   NORTH AMERICAN ARMS INC    2150 S 950 E           PROVO         UT          25668         0           0              0           0            0       25668
+33937486   SUPER SIX LLC              3806 W LISBON          MILWAUKEE     WI              0         0           0              0           0            3             3
+58303091   FREEDOM ARMS INC           314 HWY 239            FREEDOM       WY            101        48         114              0         212          480            955
+
+
+                                                                                      108518      3928       59591          57078       46533        33716      309364
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES                For Official Use Only                                  03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                   PAGE 5 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                         CITY                           ST     RIFLE MFG
+57100334      ULTIMATE ACCURACY INC                      1389 HWY 236 WEST              LONOKE                         AR               17
+57134716      WILSONS GUN SHOP INC                       2234 CR 719                    BERRYVILLE                     AR              419
+98638020      AMERICAN SPIRIT ARMS CORP                  15001 N HAYDEN RD #112         SCOTTSDALE                     AZ              195
+98600975      BUSHMASTER FIREARMS INC                    1070 METRIC DRIVE              LAKE HAVASU CITY               AZ              951
+98600122      CAVALRY ARMS CORP                          723 WEST COMMERCE SUITE A      GILBERT                        AZ               63
+98637328      LAZZERONI, INC                             1415 S CHERRY                  TUCSON                         AZ               25
+98636542      ROBAR COMPANIES, INC                       21438 N 7TH AVE SUITE B        PHOENIX                        AZ               40
+98614472      STURM, RUGER & CO INC                      200 RUGER RD                   PRESCOTT                       AZ           1274
+98643797      WESTERN ORDNANCE INTERNATIONAL CORP        1701 W 10TH ST #14             TEMPE                          AZ                2
+99537023      ENTREPRISE ARMS INC                        5321 IRWINDALE AVE             IRWINDALE                      CA              178
+93337167      GUIETTE MANUFACTURING INC                  10704 PROSPECT AVE STE D       SANTEE                         CA                7
+93319318      LA FRANCE, TIMOTHY FRANK                   3417 HANCOCK ST                SAN DIEGO                      CA               26
+93340084      RITCHIE, WILLIAM RAYMOND                   1653 PLUM LANE                 REDLANDS                       CA              174
+97738092      ROGUE RIV RIFLEWORKS INC/JOHN RIBGY & CO   500 LINNE RD STE D             PASO ROBLES                    CA               11
+97738185      SEARCY, BERNARD L                          26293 TMT RD                   BORON                          CA               19
+58437579      AWI LLC                                    600 OAK AVE                    EATON                          CO              288
+58400531      MCKINNEY, RICHARD PHILLIP                  1523A BIG THOMPSON CANYON RD   LOVELAND                       CO               5
+58400644      XCALIBER MFG LLC                           10311 W HAMPDEN AVE # A-111    LAKEWOOD                       CO               2
+60635944      AR-7 INDUSTRIES LLC                        998 N COLONY RD                MERIDEN                        CT           2479
+60600520      COLT DEFENSE LLC                           547 NEW PARK AVE               WEST HARTFORD                  CT          18480
+60636035      J L D ENTERPRISES INC                      1451 NEW BRITAIN AVE           FARMINGTON                     CT           1222
+60600252      MARLIN FIREARMS COMPANY, THE               100 KENNA DR                   NORTH HAVEN                    CT         233759
+60600773      O F MOSSBERG & SONS INC                    7 GRASSO AVE                   NORTH HAVEN                    CT           2229
+60636056      US REPEATING ARMS COMPANY                  344 WINCHESTER AVE             NEW HAVEN                      CT         125736
+15901343      AK-USA MANUFACTURING INC                   3112-1 PALM AVENUE             FORT MYERS                     FL              52
+15943009      ANZIO IRONWORKS CORP                       1905 16TH ST N                 SAINT PETERSBURG               FL               9
+15939580      BETANCOURT, JOSE A JR                      3300 SAINT JAMES AVE           DELTONA                        FL
+15940806      KEL TEC CNC INDUSTRIES INC                 1475 COX ROAD                  COCOA                          FL          12900
+15940998      KNIGHTS MANUFACTURING CO                   701 COLUMBIA BLVD              TITUSVILLE                     FL              320
+15900738      MINOR, LEE R                               1406 CAPITAL CIR NE #D         TALLAHASSEE                    FL               1
+15902094      MOORE, DAVID E & MOORE, CARLA W            2005-B MURCOTT DRIVE           SAINT CLOUD                    FL              33
+15903131      OZIMEK, GREGORY G                          1411 NW 33RD DR                POMPANO BEACH                  FL              20
+15900003      REUMAN, PHILIP CHARLES                     6001 JOHNS RD #638             TAMPA                          FL              14
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES             For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                     PAGE 6 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                          CITY                           ST      RIFLE MFG
+15946787      SERBU FIREARMS INC                         6001 JOHNS RD #144              TAMPA                          FL               176
+15900881      WHITE, FRANK C                             719 WHITE DR                    ALFORD                         FL                74
+15801567      COBB MANUFACTURING INC                     2029 MARSHALL HUFF RD SUITE A   DALLAS                         GA                10
+15801258      HEAVYARMS LLC                              1667 WILLOW WAY                 WOODSTOCK                      GA                 3
+15800115      HERITAGE CUSTOM ARMS, LLC                  250 KELLER RD                   ROSSVILLE                      GA                 7
+15840177      MASTERPIECE ARMS INC                       116 KINGSBRIDGE DRIVE           CARROLLTON                     GA               203
+54235453      DOUBLE DEUCE INC                           24276 240TH ST                  CARROLL                        IA           1058
+98235032      BAT MACHINE CO INC                         11550 N-BRUSS RD                RATHDRUM                       ID               241
+98235118      EVOLUTION INC                              RT 2 BOX 763-L                  GRANGEVILLE                    ID                 1
+98200154      ROGUE RIFLE COMPANY, INC                   1140 36TH ST N SUITE B          LEWISTON                       ID           5630
+98200093      ROMANS, STEVE DALE                         1981 BLIZZARD MT RD             ARCO                           ID                 4
+33636039      ARMALITE INC                               745 S HANFORD ST                GENESEO                         IL          13104
+33637390      DS ARMS INC                                27W990 INDUSTRIAL AVE           LAKE BARRINGTON                 IL           1234
+33637243      LEWIS MACHINE & TOOL CO                    1305 W 11TH ST                  MILAN                           IL                1
+33637004      ROCK RIVER ARMS INC                        1042 CLEVELAND RD               COLONA                          IL          14690
+33635798      SPRINGFIELD INC                            420 W MAIN ST                   GENESEO                         IL          15353
+43500047      ANTIQUE & MODERN ARMS LLC                  6243 COFFMAN RD                 INDIANAPOLIS                   IN                 1
+54800618      VAN DYKE, JOHN WILLIAM                     101 COLORADO ST                 PLAINVILLE                     KS                10
+46100968      BLUEGRASS ARMORY LLC                       145 ORCHARD STREET              RICHMOND                       KY                43
+46133576      LANDEN, RANDAL S                           1200 ONEAL RD                   LONDON                         KY                 8
+46137026      REMINGTON ARMS COMPANY, INC                22 RIFE TRAIL                   HICKORY                        KY          113102
+60400253      H & R 1871, LLC                            60 INDUSTRIAL ROWE              GARDNER                        MA           88158
+60435456      SAEILO, INC                                130 GODDARD MEMORIAL DR         WORCESTER                      MA            2636
+60433152      SAVAGE ARMS, INC                           100 SPRINGDALE RD               WESTFIELD                      MA           92122
+60401163      TAUGWANK SPUR CORP                         396 MAIN ST                     AGAWAM                         MA                 1
+85234826      ARMSCORP USA INC                           4424 JOHN AVE                   BALTIMORE                      MD               480
+85200218      BRP CORP                                   7592 COMMERCE LANE              CLINTON                        MD                48
+60100118      BOELENS, SHAWN F                           481 BANGOR RD                   DOVER FOXCROFT                 ME                 7
+60134465      BUSHMASTER FIREARMS BFI/QUALITY PARTS CO   999 ROOSEVELT TRAIL BLDG 3      WINDHAM                        ME           44476
+43843870      ANTHONY W GILKES INC                       1522 W 40TH ST                  FREMONT                        MI                 3
+43843508      BABIAR, MILAN S & MAKINSON, NICHOLAS J     2249 HIDDEN VALLEY DR           HOWELL                         MI                 1
+34136671      ACROMETAL COMPANIES, INC                   210 NE 10TH AVE                 BRAINERD                       MN            4966
+34135232      DEFENSE PROCUREMENT MFG SERVICES INC       3312 12TH ST SE                 SAINT CLOUD                    MN            5543
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES              For Official Use Only                          03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                    PAGE 7 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                         CITY                            ST     RIFLE MFG
+34137259      E ARTHUR BROWN CO INC                      4353 STATE HWY 27 E            ALEX                            MN               36
+34136974      JP ENTERPRISES INC                         7605 128TH ST N BUILDING       WHITE BEAR LAKE                 MN              161
+34136480      PINE TECHNICAL COLLEGE                     900 4TH ST SE                  PINE CITY                       MN               1
+34100363      TOOL GRINDING, INCORPORATED                5555 BOONE AVE NORTH           MINNEAPOLIS                     MN              217
+34100800      VULCAN ARMS INC                            9487 INVER GROVE TR            INVER GROVE HEIGHTS             MN          2642
+54301404      ATWILL, DAVID BRYAN                        8628 STATE HWY 125 SOUTH       CHADWICK                        MO               7
+54340380      CUTTING EDGE PMS INC, THE                  11150 PROGRESS ST              MOUNT VERNON                    MO              112
+54340562      ED BROWN CUSTOM, INC                       43825 MULDROW TRAIL            PERRY                           MO              101
+54301660      KEMCO TOOL & MACHINE COMPANY               3616 SCARLET OAK BOULEVARD     SAINT LOUIS                     MO              164
+54300107      KUEHL, RICHARD F JR                        4452 AUGUSTA SHORES DR         AUGUSTA                         MO               1
+16400400      CUNNINGHAM, STEVEN G                       169 PLANTERS GROVE             RIDGELAND                       MS
+98100053      AXTELL RIFLE CO INC                        353 MILL CREEK RD              SHERIDAN                        MT               3
+98155388      C SHARPS ARMS CO INC                       100 CENTENNIAL DR              BIG TIMBER                      MT              287
+98135432      COOPER FIREARMS OF MONTANA INC             4004 HWY 93 N                  STEVENSVILLE                    MT          2384
+98100033      MONTANA RIFLE CO                           2593 A HIGHWAY 2 EAST          KALISPELL                       MT              904
+98133799      POWDER RIVER RIFLE CO INC                  201 CENTENNIAL DR              BIG TIMBER                      MT              851
+15639696      CHANDLER, NORMAN A                         100 RADCLIFFE CIRCLE           JACKSONVILLE                    NC               23
+15640357      HILTS, RICHARD JAY                         413 WHITE HAT RD               HERTFORD                        NC                2
+15601244      MAYO, JAMES ARTHUR JR                      2411 RHYNE RD                  DALLAS                          NC               41
+15601420      NOVELTY WAREHOUSE INC                      777 OAK AVENUE                 SPRUCE PINE                     NC                9
+54733630      HATCHER, TODD M                            76650 RD 342                   ELSIE                           NE                5
+54700082      HINELINE, DAVID CARL                       724 E 15TH ST                  SOUTH SIOUX CITY                NE                2
+60201484      STURM, RUGER & CO INC                      411 SUNAPEE ST                 NEWPORT                         NH         233321
+60233754      THOMPSON CENTER ARMS CO INC                FARMINGTON RD                  ROCHESTER                       NH          47569
+82207593      NAVY ARMS COMPANY                          813-815 22ND ST                UNION CITY                      NJ              603
+82200079      ST PIERRE, THOMAS V                        506 ONE MILE RD S              HIGHTSTOWN                      NJ                4
+58500280      BORCHARDT RIFLE CORP                       9732 HWY 180 W                 SILVER CITY                     NM                6
+58535080      ENGELS, JOHN W                             2203 PEGGY ANN DR              GALLUP                          NM                1
+58534617      ROBERTSON, CHARLES R                       9812-A COCHITI SE              ALBUQUERQUE                     NM                2
+98800094      ARSENAL INC                                6959 SPEEDWAY BLVD W-109       LAS VEGAS                       NV           2711
+98835517      DEBORD, CURTIS LEE                         2500 VALLEY RD UNIT Z          RENO                            NV               18
+98835495      U S ORDNANCE INC                           2500 VALLEY RD UNITS R, S, T   RENO                            NV               58
+61134915      ARGUS PUBLICATIONS INC                     110 8TH ST                     BROOKLYN                        NY          82597
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES              For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                    PAGE 8 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                         CITY                            ST     RIFLE MFG
+61600463      HOJNICKI, DAVID                            2720 MERKLE RD                 ATTICA                          NY                2
+61334276      KIMBER MFG INC                             1 LAWTON ST                    YONKERS                         NY          7190
+61635527      REMINGTON ARMS CO, INC                     14 HOEFLER AVE                 ILION                           NY         177771
+43437450      BALOGH JAMES                               13566 INDIAN HOLLOW RD         GRAFTON                         OH               12
+43435702      BEEMILLER INC                              1015 SPRINGMILL RD             MANSFIELD                       OH          7310
+43400315      DREES, SCOTT ADAM & JANOWSKI, DAVID        3442 S MAIN ST                 ROCK CREEK                      OH                2
+              MICHAEL II
+43136652      GROVE, TODD ANDREW                         537 N ELM ST                   TROY                            OH              299
+43400779      JACOBS, MARK ROBERT                        10080 N PALMRA RD              NORTH JACKSON                   OH                4
+43436235      JONES, JOHNDAVID                           590 WOODVUE LANE               WINTERSVILLE                    OH               20
+43437065      KELBLY'S RIFLE RANGE INC                   7222 DALTON FOX LAKE RD        NORTH LAWRENCE                  OH              413
+43479505      LANDIES, ROBERT I                          310 PARK DR                    CHARDON                         OH              357
+43437848      PARKER BROS MAKERS INC                     3313 WEST 140TH ST, SUITE D    CLEVELAND                       OH                2
+43400683      VERHOFF, DARRIN                            13101 SR 15                    OTTAWA                          OH                1
+43136612      WELLS, GREGORY F                           7777 HIVNOR RD                 CROOKSVILLE                     OH                3
+57337041      FLEMING, JAMES                             HC 63 BOX 196                  RED OAK                         OK                1
+57300887      J J PERODEAU GUNMAKER INC                  WOODRING AIRPORT 66TH STREET   ENID                            OK                1
+57337084      TROMIX CORPORATION                         405 N WALNUT #8                BROKEN ARROW                    OK              232
+57336699      ZIMMERMAN, DAN B                           3840 SW 113TH                  OKLAHOMA CITY                   OK                6
+99335597      CASCADE ARMS INC                           52261 KELLY SPRINGS RD         MAUPIN                          OR                1
+99300756      CELESTE, TIMOTHY MATTHEW                   548 MENLO DR N                 KEIZER                          OR                2
+99337462      GUSTAFSON, DAVID AUGUST                    4820 W 188TH PLACE             ALOHA                           OR                3
+99337203      LOOCK MANUFACTURING CO INC                 21210 SW JOHNSON ST            ALOHA                           OR                6
+99300614      PIERCE & SON LE SUPPLIES LLC               2895 CHAD DR                   EUGENE                          OR               13
+99337182      TNW FIRERMS INC                            55325 TIMBER RD BLDG A         VERNONIA                        OR              274
+82301302      BIRTEL, DAVID P                            195 SOLCUM STREET FLOOR #2     SWOYERSVILLE                    PA               3
+82300240      BRADLEY, ROBERT WESTON                     259 LAFAYETTE RD               COATESVILLE                     PA               1
+82534860      CLASS THREE SUPPLY INC                     1400 N HERMITAGE RD            HERMITAGE                       PA               5
+82300212      CLASSIC PISTOL INC                         1310 INDUSTRIAL BLVD           SOUTHAMPTON                     PA               1
+82333035      DINA ARMS CORP                             3378 PRUSS HILL RD             POTTSTOWN                       PA               1
+82301354      DOUG KOENIG CUSTOM RIFLES INC              1031 FOUNTAIN ST               ASHLAND                         PA               1
+82300912      GENERAL BALLISTICS INC                     RTE 715 RR #6                  SAYLORSBURG                     PA               1
+82339102      HAMMONDS, CLARENCE H                       415 GREENWAY                   RED LION                        PA               1
+82300331      K B I INC                                  5480 LINGLESTOWN RD            HARRISBURG                      PA              48
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES              For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                    PAGE 9 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                          CITY                           ST     RIFLE MFG
+82339132      KEYSTONE SPORTING ARMS INC                 8920 STATE RT 405               MILTON                         PA          23185
+82300432      PRENDERGAST, PETER G MD                    RR 2 BOX 2060 STONE ST          FRIENDSVILLE                   PA               1
+82300267      SINGLE SHOT RIFLES INC                     RR 2 BOX 1012                   DINGMANS FERRY                 PA              75
+82340096      SMITH, KENNETH M SR                        450 SMITH LN                    PALMYRA                        PA               1
+82333855      TAR HUNT CUSTOM RIFLES INC                 101 DOGTOWN RD                  BLOOMSBURG                     PA               1
+60500107      TANURY INDUSTRIES                          6 NEW ENGLAND WAY               LINCOLN                        RI               6
+15700093      FERGUSON, MELVIN R                         232 ROGER BOLT RD               BELTON                         SC               3
+15735931      JARRETT RIFLES INC                         383 BROWN RD                    JACKSON                        SC              110
+15700935      LAURENS COUNTY TACTICAL ARMORY LLC         796 ROCKY SPRINGS CHURCH RD     LAURENS                        SC               3
+34606531      DAKOTA ARMS INC                            1310 INDUSTRY RD                STURGIS                        SD              303
+34600028      FOUR HORSEMEN ARMS LLC                     105-B OAK ST                    FAIRBURN                       SD               17
+34633475      H S PRECISION INC                          1301 TURBINE DR                 RAPID CITY                     SD              680
+34606554      MILLER ARMS INC                            PURL ST BOX 260                 ST ONGE                        SD               21
+34600103      SATTERLEE, STUART                          EAST HWY 14A ECHO MOUNTAIN RD   DEADWOOD                       SD                1
+34600222      WILLIAMS, BRIAN                            9539 N HWY 79                   BLACK HAWK                     SD                1
+16236907      BARRETT FIREARMS MFG INC                   5926 MILLER LANE                MURFREESBORO                   TN           1158
+57637697      ARSENAL USA I, LLC                         7311 GALVESTON RD STE 260       HOUSTON                        TX                1
+57600679      BODINE, WILLIAM ETCYL                      1305 EVERGLADE                  PASADENA                       TX                1
+57600038      BOWEN, JOE F                               200 BAYOU BEND LANE BLDG 2      CLEVELAND                      TX                1
+57634159      BRILEY MANUFACTURING INC                   1230 LUMPKIN                    HOUSTON                        TX                5
+57401590      DAWSON PRECISION INC                       3300 CR 233                     FLORENCE                       TX
+57401043      HCR INC                                    5726 MORNINGSIDE DRIVE          NEW BRAUNFELS                  TX               40
+57542125      LAU, MICHAEL RICHARD                       906 MIDDLE RUN                  DUNCANVILLE                    TX               18
+57637564      LONE STAR RIFLE CO INC                     11231 ROSE ROAD                 CONROE                         TX               28
+57637288      PMM INVESTMENT CASTINGS INC                5514 W 34TH ST                  HOUSTON                        TX                5
+57500624      PRIORITY TOOL & MACHINE INC                185 MARK LANE                   ROYSE CITY                     TX                9
+57500408      ROCK, RANDEL ARA                           2351 MERREL RD #108             DALLAS                         TX                8
+57501388      SEIDEL, THOMAS                             6501 135 E UNIT 105             CORINTH                        TX                2
+57541806      STILLERS PRECISION FIREARMS LLC            2405 COUNTRY MEADOW LN          WYLIE                          TX              419
+57537987      URBACH, MURRAY GLEN                        1529 AXE                        GARLAND                        TX                2
+98787363      ARMS TECHNOLOGY INC                        2779 DIRECTORS ROW              SALT LAKE CITY                 UT           4091
+98734761      SHADOW VALLEY ARMS CO, LLC                 2710 SOUTH 1900 WEST            OGDEN                          UT
+98734745      WILLIS, JAMES A                            1180 BELL CASTLE CIR            SANDY                          UT                1
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES              For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                          RIFLES MANUFACTURED IN 2003                                PAGE 10 OF 22
+
+RDS KEY       LICENSE NAME                               STREET                      CITY                           ST     RIFLE MFG
+98734724      ZDF IMPORT/EXPORT INC                      2090 N REDWOOD RD #40       SALT LAKE CITY                 UT                3
+15400508      MCPEAKE, TIMOTHY & MCPEAKE JEFFREY         1500 STAPLES ST LOT 1       RADFORD                        VA                2
+60300037      CASPIAN ARMS LTD                           75 CAL FOSTER DR            WOLCOTT                        VT                4
+60333217      CENTURY ARMS INC                           236 BRYCE BLVD              GEORGIA                        VT          18019
+99101098      AERO PRECISION INC                         2338 HOLGATE ST S           TACOMA                         WA            676
+99137453      JOHNSON, VALERIE ANNE                      75B ABBOTT RD               ELMA                           WA            120
+99136693      NESIKA BAY PRECISION INC                   6112 NE MINNER RD #8        POULSBO                        WA            404
+99114520      OLYMPIC ARMS INC                           624 OLD PACIFIC HWY SE      OLYMPIA                        WA           7005
+99100854      TOTAL SILENCE INC                          30217 108TH SE              AUBURN                         WA                1
+33900732      EAST RIDGE GUN CO INC                      6319 5TH AVE                BANCROFT                       WI               66
+33937213      GRAETZ, ALLEN CHARLES                      W10843 W 4TH RD             POUND                          WI                1
+33937339      GRAETZ, ERIC JAY                           N5391 COUNTY RD S           POUND                          WI               24
+33900697      LAUER, STEVEN MICHAEL                      3601 129TH ST               CHIPPEWA FALLS                 WI            316
+33937187      PIPER, DANE G & MENN, JEFF F               305 E TERHUNE ST            VIROQUA                        WI               12
+45500132      MELVIN FORBES ENTERPRISES LLC              214 PRICE ST                GRANVILLE                      WV            155
+45536010      PRECISION WEAPONS CORP                     112 SURPLUS LN              BRADLEY                        WV               2
+58334359      BALLARD RIFLE LLC                          113 W YELLOWSTONE           CODY                           WY            143
+
+                                                                                                                              1430324
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES          For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                         SHOTGUNS MANUFACTURED IN 2003                                 PAGE 11 OF 22
+RDS KEY       LICENSE NAME                                   STREET                             CITY                      ST    SHOTGUN MFG
+16337359      ELLIS, JEFFERY OWEN                            1147 GADSDEN HWY                  BIRMINGHAM                  AL              1
+57134716      WILSONS GUN SHOP INC                           2234 CR 719                       BERRYVILLE                  AR            530
+98636542      ROBAR COMPANIES, INC                           21438 N 7TH AVE SUITE B           PHOENIX                     AZ             16
+97738092      ROGUE RIV RIFLEWORKS INC/JOHN RIBGY & CO       500 LINNE RD STE D                PASO ROBLES                 CA              4
+60634862      CONNECTICUT SHOTGUN MANUFACTURING CO           35 WOODLAND ST                    NEW BRITAIN                 CT            123
+60600252      MARLIN FIREARMS COMPANY, THE                   100 KENNA DR                      NORTH HAVEN                 CT           4783
+60600773      O F MOSSBERG & SONS INC                        7 GRASSO AVE                      NORTH HAVEN                 CT          178931
+60636056      US REPEATING ARMS COMPANY                      344 WINCHESTER AVE                NEW HAVEN                   CT           42650
+15939580      BETANCOURT, JOSE A JR                          3300 SAINT JAMES AVE              DELTONA                     FL
+33635798      SPRINGFIELD INC                                420 W MAIN ST                     GENESEO                     IL            4412
+43501246      D G N ENTERPRISES INC                          7270 HALL SCHOOL ROAD             MARTINSVILLE                IN              2
+46100680      STRAMAN, TODD ALLAN                            2217 WAGONER RD                   CALIFORNIA                  KY              1
+60400253      H & R 1871, LLC                                60 INDUSTRIAL ROWE                GARDNER                     MA          114044
+60433152      SAVAGE ARMS, INC                               100 SPRINGDALE RD                 WESTFIELD                   MA            4666
+85234687      AIM INC                                        19200 MIDDLETOWN RD               PARKTON                     MD             89
+85207699      BERETTA U S A CORPORATION                      17601 BERETTA DR                  ACCOKEEK                    MD            3679
+54338023      ALFERMANN USA INC                              1482 POTTERY RD                   WASHINGTON                  MO             22
+16400400      CUNNINGHAM, STEVEN G                           169 PLANTERS GROVE                RIDGELAND                   MS
+54700082      HINELINE, DAVID CARL                           724 E 15TH ST                     SOUTH SIOUX CITY            NE              1
+60201484      STURM, RUGER & CO INC                          411 SUNAPEE ST                    NEWPORT                     NH           4538
+82200281      GRIFFIN & HOWE INC                             33 CLAREMONT RD                   BERNARDSVILLE               NJ              3
+61435045      CAMBRIDGE VALLEY MACHINING INC                 PERRY LANE                        CAMBRIDGE                   NY             42
+61635833      ITHACA GUN PARTS & SERVICE CORPORATION         891 ROUTE 34B                     KINGS FERRY                 NY           5514
+61635527      REMINGTON ARMS CO, INC                         14 HOEFLER AVE                    ILION                       NY          300399
+43400683      VERHOFF, DARRIN                                13101 SR 15                       OTTAWA                      OH              1
+99300756      CELESTE, TIMOTHY MATTHEW                       548 MENLO DR N                    KEIZER                      OR              3
+99335096      COLE ARMS INC                                  2225 PINEHURST DR                 MCMINNVILLE                 OR              1
+99337203      LOOCK MANUFACTURING CO INC                     21210 SW JOHNSON ST               ALOHA                       OR              1
+82333855      TAR HUNT CUSTOM RIFLES INC                     101 DOGTOWN RD                    BLOOMSBURG                  PA             63
+34606531      DAKOTA ARMS INC                                1310 INDUSTRY RD                  STURGIS                     SD              1
+34633475      H S PRECISION INC                              1301 TURBINE DR                   RAPID CITY                  SD             35
+16200523      LEINAD INC                                     221 HWY 68 N                      DUCKTOWN                    TN            320
+57401590      DAWSON PRECISION INC                           3300 CR 233                       FLORENCE                    TX
+57438715      ENGEL BALLISTIC RESEARCH INC                   544A ALUM CREEK RD                SMITHVILLE                  TX              1
+57434208      MAVERICK ARMS, INC                             INDUSTRIAL BLVD MAVERICK CO DEVLPT EAGLE PASS                 TX          61084
+                                                             PARK
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES             For Official Use Only                       03/31/2005
+WASHINGTON DC
+                                                        SHOTGUNS MANUFACTURED IN 2003                        PAGE 12 OF 22
+RDS KEY       LICENSE NAME                                   STREET                  CITY                       ST    SHOTGUN MFG
+57600812      NORMAN, KEITH HAYDEN                           22910 SQUIRREL TREE     SPRING                      TX              10
+98734761      SHADOW VALLEY ARMS CO, LLC                     2710 SOUTH 1900 WEST    OGDEN                       UT
+15400508      MCPEAKE, TIMOTHY & MCPEAKE JEFFREY             1500 STAPLES ST LOT 1   RADFORD                     VA               2
+33933175      US COMPETITION ARMS INC                        1925 ROOSEVELT AVE      RACINE                      WI             106
+
+                                                                                                                             726078
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES   For Official Use Only                       03/31/2005
+WASHINGTON DC
+                                                                                                                        PAGE 13 OF 22
+                                                    MISC. FIREARMS MANUFACTURED IN 2003
+RDS KEY        LICENSE NAME                                   STREET                             CITY                      ST      MISC FA MFG
+60636014       ALVAREZ, SAMUEL W & KUBALA, THOMAS             1223 MT VERNON RD                 SOUTHINGTON                 CT               3
+60600773       O F MOSSBERG & SONS INC                        7 GRASSO AVE                      NORTH HAVEN                 CT           13657
+15939580       BETANCOURT, JOSE A JR                          3300 SAINT JAMES AVE              DELTONA                     FL
+15947090       WOLFGRAM, WILLIAM J                            2633 2ND AVE                      LORIDA                      FL              30
+46136807       IDEAL PRODUCTS INC                             700 E LOUDON AVE                  LEXINGTON                   KY             355
+60433152       SAVAGE ARMS, INC                               100 SPRINGDALE RD                 WESTFIELD                   MA             909
+34135232       DEFENSE PROCUREMENT MFG SERVICES INC           3312 12TH ST SE                   SAINT CLOUD                 MN            9679
+16400400       CUNNINGHAM, STEVEN G                           169 PLANTERS GROVE                RIDGELAND                   MS
+43136612       WELLS, GREGORY F                               7777 HIVNOR RD                    CROOKSVILLE                 OH               1
+34606531       DAKOTA ARMS INC                                1310 INDUSTRY RD                  STURGIS                     SD              66
+57401590       DAWSON PRECISION INC                           3300 CR 233                       FLORENCE                    TX
+57434208       MAVERICK ARMS, INC                             INDUSTRIAL BLVD MAVERICK CO DEVLPT EAGLE PASS                 TX            6264
+                                                              PARK
+98734761       SHADOW VALLEY ARMS CO, LLC                     2710 SOUTH 1900 WEST               OGDEN                      UT
+33937339       GRAETZ, ERIC JAY                               N5391 COUNTY RD S                 POUND                       WI              14
+
+                                                                                                                                         30978
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES              For Official Use Only                       03/31/2005
+WASHINGTON DC
+                                                            PISTOLS EXPORTED IN 2003                              PAGE 1 OF 7
+RDS KEY    LICENSE NAME                                  STREET                      CITY                    ST       PISTOLS
+98614472   STURM, RUGER & CO INC                        200 RUGER RD                 PRESCOTT                AZ          1257
+60633345   COLT'S MANUFACTURING CO LLC                  545 NEWPARK AVE              WEST HARTFORD           CT           655
+15939580   BETANCOURT, JOSE A JR                        3300 SAINT JAMES AVE         DELTONA                 FL
+33635343   LES BAER CUSTOM INC                          29601 34TH AVE N             HILLSDALE               IL           252
+33635798   SPRINGFIELD INC                              420 W MAIN ST                GENESEO                 IL           891
+60410395   SMITH & WESSON CORP                          2100 ROOSEVELT AVE           SPRINGFIELD             MA          4844
+60435456   SAEILO, INC                                  130 GODDARD MEMORIAL DR      WORCESTER               MA           143
+85207699   BERETTA U S A CORPORATION                    17601 BERETTA DR             ACCOKEEK                MD           985
+60106460   SMITH & WESSON CORP                          19 AVIATION DR               HOULTON                 ME           794
+16400400   CUNNINGHAM, STEVEN G                         169 PLANTERS GROVE           RIDGELAND               MS
+60200153   SIG ARMS INC                                 18 INDUSTRIAL DR             EXETER                  NH          4426
+60233754   THOMPSON CENTER ARMS CO INC                  FARMINGTON RD                ROCHESTER               NH           409
+61636016   DAN WESSON CORP                              5169 ROUTE 12 SOUTH          NORWICH                 NY            18
+61334276   KIMBER MFG INC                               1 LAWTON ST                  YONKERS                 NY           279
+34633475   H S PRECISION INC                            1301 TURBINE DR              RAPID CITY              SD             2
+57401590   DAWSON PRECISION INC                         3300 CR 233                  FLORENCE                TX
+57434417   STI INTERNATIONAL, INC                       114 HALMAR COVE              GEORGETOWN              TX          1071
+98734761   SHADOW VALLEY ARMS CO, LLC                   2710 SOUTH 1900 WEST         OGDEN                   UT
+98734026   NORTH AMERICAN ARMS INC                      2150 S 950 E                 PROVO                   UT           314
+
+                                                                                                                        16340
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES   For Official Use Only                      03/31/2005
+WASHINGTON DC
+                                                          REVOLVERS EXPORTED IN 2003                              PAGE 2 OF 7
+
+RDS KEY    LICENSE NAME                                  STREET                      CITY                    ST     REVOLVERS
+98638426   REEDER, GARY NELSON                          2599 7TH AVE                 FLAGSTAFF               AZ             1
+60600482   UNITED STATES FIRE ARMS MANUFACTURING CO     455-453 LEDYARD ST           HARTFORD                CT           1026
+60633345   COLT'S MANUFACTURING CO LLC                  545 NEWPARK AVE              WEST HARTFORD           CT            230
+15941170   HERITAGE MFG INC                             4600 NW 135TH ST             OPA LOCKA               FL            200
+15939580   BETANCOURT, JOSE A JR                        3300 SAINT JAMES AVE         DELTONA                 FL
+60410395   SMITH & WESSON CORP                          2100 ROOSEVELT AVE           SPRINGFIELD             MA          22058
+16400400   CUNNINGHAM, STEVEN G                         169 PLANTERS GROVE           RIDGELAND               MS
+60201484   STURM, RUGER & CO INC                        411 SUNAPEE ST               NEWPORT                 NH           2041
+61636016   DAN WESSON CORP                              5169 ROUTE 12 SOUTH          NORWICH                 NY             16
+57401590   DAWSON PRECISION INC                         3300 CR 233                  FLORENCE                TX
+98734761   SHADOW VALLEY ARMS CO, LLC                   2710 SOUTH 1900 WEST         OGDEN                   UT
+98734026   NORTH AMERICAN ARMS INC                      2150 S 950 E                 PROVO                   UT            952
+
+
+                                                                                                                         26524
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES   For Official Use Only                       03/31/2005
+WASHINGTON DC
+                                                              RIFLES EXPORTED IN 2003                               PAGE 3 OF 7
+RDS KEY    LICENSE NAME                                  STREET                        City                   ST         RIFLE EXP
+98614472   STURM, RUGER & CO INC                         200 RUGER RD                 PRESCOTT                AZ                   80
+97738092   ROGUE RIV RIFLEWORKS INC/JOHN RIBGY & CO      500 LINNE RD STE D           PASO ROBLES             CA                   11
+60600252   MARLIN FIREARMS COMPANY, THE                  100 KENNA DR                 NORTH HAVEN             CT             10280
+60636056   US REPEATING ARMS COMPANY                     344 WINCHESTER AVE           NEW HAVEN               CT              5560
+60600520   COLT DEFENSE LLC                              547 NEW PARK AVE             WEST HARTFORD           CT              1116
+15939580   BETANCOURT, JOSE A JR                         3300 SAINT JAMES AVE         DELTONA                 FL
+15801258   HEAVYARMS LLC                                 1667 WILLOW WAY              WOODSTOCK               GA                    3
+98200154   ROGUE RIFLE COMPANY, INC                      1140 36TH ST N SUITE B       LEWISTON                ID                   27
+33636039   ARMALITE INC                                  745 S HANFORD ST             GENESEO                  IL                 201
+33635798   SPRINGFIELD INC                               420 W MAIN ST                GENESEO                  IL                 232
+46137026   REMINGTON ARMS COMPANY, INC                   22 RIFE TRAIL                HICKORY                 KY              7005
+60433152   SAVAGE ARMS, INC                              100 SPRINGDALE RD            WESTFIELD               MA              3969
+60400253   H & R 1871, LLC                               60 INDUSTRIAL ROWE           GARDNER                 MA              1262
+60134465   BUSHMASTER FIREARMS BFI/QUALITY PARTS CO      999 ROOSEVELT TRAIL BLDG 3   WINDHAM                 ME                  141
+16400400   CUNNINGHAM, STEVEN G                          169 PLANTERS GROVE           RIDGELAND               MS
+98100033   MONTANA RIFLE CO                              2593 A HIGHWAY 2 EAST        KALISPELL               MT                   29
+98135432   COOPER FIREARMS OF MONTANA INC                4004 HWY 93 N                STEVENSVILLE            MT                    5
+98133799   POWDER RIVER RIFLE CO INC                     201 CENTENNIAL DR            BIG TIMBER              MT                    7
+60200153   SIG ARMS INC                                  18 INDUSTRIAL DR             EXETER                  NH                    3
+60201484   STURM, RUGER & CO INC                         411 SUNAPEE ST               NEWPORT                 NH             14924
+60233754   THOMPSON CENTER ARMS CO INC                   FARMINGTON RD                ROCHESTER               NH                  318
+82200281   GRIFFIN & HOWE INC                            33 CLAREMONT RD              BERNARDSVILLE           NJ                    3
+61635527   REMINGTON ARMS CO, INC                        14 HOEFLER AVE               ILION                   NY             14908
+61134915   ARGUS PUBLICATIONS INC                        110 8TH ST                   BROOKLYN                NY              1650
+61334276   KIMBER MFG INC                                1 LAWTON ST                  YONKERS                 NY                   48
+43437065   KELBLY'S RIFLE RANGE INC                      7222 DALTON FOX LAKE RD      NORTH LAWRENCE          OH                    4
+43436235   JONES, JOHNDAVID                              590 WOODVUE LANE             WINTERSVILLE            OH                    1
+82300432   PRENDERGAST, PETER G MD                       RR 2 BOX 2060 STONE ST       FRIENDSVILLE            PA                    1
+34606531   DAKOTA ARMS INC                               1310 INDUSTRY RD             STURGIS                 SD                   18
+34633475   H S PRECISION INC                             1301 TURBINE DR              RAPID CITY              SD                  158
+16236907   BARRETT FIREARMS MFG INC                      5926 MILLER LANE             MURFREESBORO            TN                  403
+57401590   DAWSON PRECISION INC                          3300 CR 233                  FLORENCE                TX
+98734761   SHADOW VALLEY ARMS CO, LLC                    2710 SOUTH 1900 WEST         OGDEN                   UT
+45500132   MELVIN FORBES ENTERPRISES LLC                 214 PRICE ST                 GRANVILLE               WV                  155
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES    For Official Use Only                             03/31/2005
+WASHINGTON DC
+                                                             RIFLES EXPORTED IN 2003                              PAGE 4 OF 7
+RDS KEY    LICENSE NAME                                  STREET                       City                   ST        RIFLE EXP
+                                                                                                                           62522
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES   For Official Use Only                         03/31/2005
+WASHINGTON DC
+                                                         SHOTGUNS EXPORTED IN 2003                                PAGE 5 OF 7
+RDS KEY        LICENSE NAME                                  STREET                              CITY             ST     SHOTGUN EXP
+57134716      WILSONS GUN SHOP INC                           2234 CR 719                        BERRYVILLE         AR               4
+98636542      ROBAR COMPANIES, INC                           21438 N 7TH AVE SUITE B            PHOENIX            AZ              13
+97738092      ROGUE RIV RIFLEWORKS INC/JOHN RIBGY & CO       500 LINNE RD STE D                 PASO ROBLES        CA               4
+60600252      MARLIN FIREARMS COMPANY, THE                   100 KENNA DR                       NORTH HAVEN        CT             134
+60636056      US REPEATING ARMS COMPANY                      344 WINCHESTER AVE                 NEW HAVEN          CT             940
+60600773      O F MOSSBERG & SONS INC                        7 GRASSO AVE                       NORTH HAVEN        CT            7602
+15939580      BETANCOURT, JOSE A JR                          3300 SAINT JAMES AVE               DELTONA            FL
+33635798      SPRINGFIELD INC                                420 W MAIN ST                      GENESEO            IL             427
+60433152      SAVAGE ARMS, INC                               100 SPRINGDALE RD                  WESTFIELD          MA             117
+60400253      H & R 1871, LLC                                60 INDUSTRIAL ROWE                 GARDNER            MA            1330
+16400400      CUNNINGHAM, STEVEN G                           169 PLANTERS GROVE                 RIDGELAND          MS
+60200153      SIG ARMS INC                                   18 INDUSTRIAL DR                   EXETER             NH              41
+60201484      STURM, RUGER & CO INC                          411 SUNAPEE ST                     NEWPORT            NH              47
+82200281      GRIFFIN & HOWE INC                             33 CLAREMONT RD                    BERNARDSVILLE      NJ               5
+61635527      REMINGTON ARMS CO, INC                         14 HOEFLER AVE                     ILION              NY           12269
+34633475      H S PRECISION INC                              1301 TURBINE DR                    RAPID CITY         SD               1
+57434208      MAVERICK ARMS, INC                             INDUSTRIAL BLVD MAVERICK CO DEVLPT EAGLE PASS         TX            6603
+                                                             PARK
+57401590      DAWSON PRECISION INC                           3300 CR 233                        FLORENCE           TX
+98734761      SHADOW VALLEY ARMS CO, LLC                     2710 SOUTH 1900 WEST               OGDEN              UT
+
+
+                                                                                                                                29537
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES        For Official Use Only                    03/31/2005
+WASHINGTON DC
+                                                      MISC. FIREARMS EXPORTED IN 2003                             PAGE 6 OF 7
+RDS KEY        LICENSE NAME                                  STREET                             CITY              ST      MISC FA MFG
+60600773      O F MOSSBERG & SONS INC                        7 GRASSO AVE                       NORTH HAVEN        CT            2390
+15939580      BETANCOURT, JOSE A JR                          3300 SAINT JAMES AVE               DELTONA            FL
+16400400      CUNNINGHAM, STEVEN G                           169 PLANTERS GROVE                 RIDGELAND         MS
+57434208      MAVERICK ARMS, INC                             INDUSTRIAL BLVD MAVERICK CO DEVLPT EAGLE PASS         TX            4599
+                                                             PARK
+57401590      DAWSON PRECISION INC                           3300 CR 233                        FLORENCE           TX
+98734761      SHADOW VALLEY ARMS CO, LLC                     2710 SOUTH 1900 WEST               OGDEN              UT
+
+
+                                                                                                                                 6989
+
+
+
+
+PREPARED BY THE OFFICE OF FEA, BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES        For Official Use Only                     03/31/2005
+WASHINGTON DC
+
