@@ -1,0 +1,154 @@
+#!/usr/bin/env python
+
+import sys, os, re
+import argparse
+import urllib
+
+class InvalidCategory(Exception): pass
+
+def to_category(s):
+	if s == "PISTOLS":
+		return "pistols"
+	if s == "REVOLVERS":
+		return "revolvers"
+	if s == "RIFLES":
+		return "rifles"
+	if s == "SHOTGUNS":
+		return "shotguns"
+	if s == "MISC. FIREARMS":
+		return "misc"
+
+	raise InvalidCategory(s)
+
+def process_input(input, pages, lines):
+	action = None
+	cat = None
+	year = None
+	header = None
+	page = None
+
+	pages += 1  # assume the first page
+
+	while True:
+		line = input.readline()
+		if not line:
+			break
+
+		lines += 1
+
+		line = line[:-1]
+
+		if line and line[0] == "\f":
+			line = line[1:]
+			pages += 1
+			page = None
+			action, cat, year, header = None, None, None, None
+
+		m = re.search(r"PAGE (\d+) OF \d+", line)
+		if m:
+			page = int(m.group(1))
+
+		m = re.search(r"(\w.*) MANUFACTURED IN (\d{4})", line)
+		if m:
+			action = "manufactured"
+			cat = to_category(m.group(1))
+			year = int(m.group(2))
+			continue
+
+		m = re.search(r"(\w.*) MANUFACTURERS EXPORTED IN (\d{4})", line)
+		if m:
+			action = "exported"
+			cat = to_category(m.group(1))
+			year = int(m.group(2))
+			continue
+
+		m = re.search(r"(\w.*) EXPORTED IN (\d{4})", line)
+		if m:
+			action = "exported"
+			cat = to_category(m.group(1))
+			year = int(m.group(2))
+			continue
+
+		if re.search("^RDS KEY ", line):
+			header = re.split(r" {2,}", line)
+			if header[-1] == "32":  # defect in 2005 report
+				header = [ "RDS KEY", "LICENSE NAME", "STREET", "CITY", "ST", "RIFLE MFG" ]
+
+		m = re.search(r"^(\d{8}) ", line)
+		if m:
+			rdskey = m.group(1)
+			fields = re.split(r" {2,}", line)
+			handgun = False
+			for h, v in zip(reversed(header), reversed(fields)):
+				if h == "TOTAL" or h == "RVLR TOTL":
+					handgun = True
+					continue
+				if h == "ST": break
+				subcat = 'all'
+				if handgun:
+					subcat = h.lower()
+					if subcat[:5] == "rvlr ":
+						subcat = subcat[5:]
+
+				# remove "revised entry" indicator
+				m = re.match("(\d+) *#", v)
+				if m:
+					v = m.group(1)
+				# there are a few blank entries
+				if not re.match("\d+", v):
+					if not handgun: v = "NA"
+				print "%s,%d,%s,%s,%s,%s" % (rdskey, year, action, cat, subcat, v)
+			continue
+
+	return (pages, lines)
+
+class InvalidYear(Exception): pass
+
+def get_report_name(year):
+	if year < 2000:
+		raise InvalidYear(year)
+	elif year < 2010:
+		return '%d-firearms-manufacturers-export-report.pdf' % year
+	elif year == 2012:  # weird name
+		return 'afmer_%d_final_web_report_17jan2014.pdf' % year
+	elif year < 2013:
+		return '%d-final-firearms-manufacturing-export-report.pdf' % year
+	else:
+		raise InvalidYear(year)
+
+def get_report_url(year):
+	name = get_report_name(year)
+	if year == 2012:  # weird location
+		return "https://www.atf.gov/sites/default/files/assets/pdf-files/%s" % name
+	else:
+		return "https://www.atf.gov/files/statistics/download/afmer/%s" % name
+
+year = 2000
+try:
+	pages = 0
+	lines = 0
+	print ','.join(["RDS Key,Year,Action,Type,Caliber,Count"])
+	while True:
+		text_dir = "text"
+		text_file = "%s/%d.txt" % (text_dir, year)
+		if not os.path.exists(text_file):
+
+			report_dir = "reports"
+			report_file = "%s/%s" % (report_dir, get_report_name(year))
+			if not os.path.exists(report_file):
+				if not os.path.isdir(report_dir):
+					os.mkdir(report_dir)
+				url = get_report_url(year)
+				urllib.urlretrieve(url, report_file)
+
+			if not os.path.isdir(text_dir):
+				os.mkdir(text_dir)
+			os.system('pdftotext -layout "%s" "%s"' % (report_file, text_file))
+
+		f = open(text_file)
+		pages, lines = process_input(f, pages, lines)
+		f.close()
+
+		year += 1
+except InvalidYear:
+	pass
