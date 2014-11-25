@@ -8,13 +8,14 @@ suppressMessages({
 ```{r, echo = FALSE}
 afmer <- read.csv("afmer.csv",
                   colClasses = c("character",
-                                 "character",
+                                 "integer",
                                  "factor",
                                  "character",
                                  "factor",
                                  "integer"))
 
-afmer$Year <- as.Date(afmer$Year, format = "%Y")
+afmer$Year <- as.Date(sprintf("%d-01-01", afmer$Year),
+                      format = "%Y-%m-%d")
 afmer$Type <- factor(afmer$Type, levels = c("rifles",
                                             "shotguns",
                                             "pistols",
