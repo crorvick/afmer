@@ -124,9 +124,11 @@ def get_report_url(year):
 		return "https://www.atf.gov/files/statistics/download/afmer/%s" % name
 
 year = 2000
+start_year = year
+end_year = None
+pages = 0
+lines = 0
 try:
-	pages = 0
-	lines = 0
 	print ','.join(["RDS Key,Year,Action,Type,Caliber,Count"])
 	while True:
 		text_dir = "text"
@@ -149,6 +151,10 @@ try:
 		pages, lines = process_input(f, pages, lines)
 		f.close()
 
+		end_year = year
 		year += 1
 except InvalidYear:
 	pass
+
+print >>sys.stderr, "Processed years %d - %d (%d pages, %d lines)" % (
+	start_year, end_year, pages, lines)
