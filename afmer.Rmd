@@ -1,0 +1,72 @@
+```{r, echo = FALSE}
+suppressMessages({
+  library(dplyr)
+  library(ggplot2)
+})
+```
+
+```{r, echo = FALSE}
+afmer <- read.csv("afmer.csv",
+                  colClasses = c("character",
+                                 "character",
+                                 "factor",
+                                 "character",
+                                 "factor",
+                                 "integer"))
+
+afmer$Year <- as.Date(afmer$Year, format = "%Y")
+afmer$Type <- factor(afmer$Type, levels = c("rifles",
+                                            "shotguns",
+                                            "pistols",
+                                            "revolvers",
+                                            "misc"))
+afmer$Caliber <- factor(afmer$Caliber, levels = c("22",
+                                                  "25",
+                                                  "32",
+                                                  "9mm",
+                                                  "357",
+                                                  "38",
+                                                  "380",
+                                                  "44",
+                                                  "50",
+                                                  "all"))
+```
+
+```{r, echo = FALSE}
+afmer.types <- afmer %>%
+  filter(Action == "manufactured") %>%
+  group_by(Year, Type) %>%
+  summarize(Total = sum(Count, na.rm = TRUE))
+
+ggplot(afmer.types, aes(x = Year, y = Total / 1e6, color = Type)) +
+  geom_line(size = 2, alpha = .5, group_by = "Type") +
+  geom_point(size = 3, group_by = "Type") +
+  scale_x_date() +
+  ggtitle("US firearm production by year") +
+  xlab(NULL) + ylab("Units (millions)")
+
+afmer.pistols <- afmer %>%
+  filter(Action == "manufactured", Type == "pistols") %>%
+  group_by(Year, Caliber) %>%
+  summarize(Total = sum(Count, na.rm = TRUE))
+
+ggplot(afmer.pistols, aes(x = Year, y = Total / 1e6, color = Caliber)) +
+  geom_line(size = 2, alpha = .5, group_by = "Caliber") +
+  geom_point(size = 3, group_by = "Caliber") +
+  scale_x_date() +
+  scale_y_continuous(breaks = c(0.0, 0.5, 1.0)) +
+  ggtitle("US pistol production by year") +
+  xlab(NULL) + ylab("Units (millions)")
+
+afmer.revolvers <- afmer %>%
+  filter(Action == "manufactured", Type == "revolvers") %>%
+  group_by(Year, Caliber) %>%
+  summarize(Total = sum(Count, na.rm = TRUE))
+
+ggplot(afmer.revolvers, aes(x = Year, y = Total / 1e3, color = Caliber)) +
+  geom_line(size = 2, alpha = .5, group_by = "Caliber") +
+  geom_point(size = 3, group_by = "Caliber") +
+  scale_x_date() +
+  ggtitle("US revolver production by year") +
+  xlab(NULL) + ylab("Units (thousands)")
+```
